@@ -1,0 +1,3 @@
+C:/Users/student/Downloads/OneDrive_2025-06-15/Tablica zapisywania do pliku/cmake-build-debug/CMakeFiles/untitled42.dir
+C:/Users/student/Downloads/OneDrive_2025-06-15/Tablica zapisywania do pliku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Downloads/OneDrive_2025-06-15/Tablica zapisywania do pliku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
